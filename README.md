@@ -21,3 +21,9 @@ Quntum2 project about Qiskit SDK
     If you prefer to use Docker, simply build a Docker image using:  `docker build -t qdocss .`.
 
     run the docker image using `docker run qdocss`.
+
+## **Directories**
+
+* **notebooks** : This directory contains jupyter notebooks.
+
+* **report** : Project report exists in this directory.
